@@ -2,7 +2,7 @@
   "name": "nuxt_blog",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "hitsuji-haneta <hitsuji.haneta1986@gmail.com>",
+  "author": "hitsuji-haneta",
   "private": true,
   "scripts": {
     "dev": "nuxt",

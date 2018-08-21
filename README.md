@@ -1,23 +1,11 @@
-# nuxt_blog
+# SPAブログのデモ
 
-> Nuxt.js project
+詳細はこちらから
 
-## Build Setup
+> ブログ記事「Nuxt.js + Contentful + NetlifyでSPAブログを自作する」
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+- [まえがき編](https://thinkshake.net/blog/20180722)
+- [Nuxt.js編](https://thinkshake.net/blog/20180802)
+- [Contentful編](https://thinkshake.net/blog/20180804)
+- [Netlify編](https://thinkshake.net/blog/20180819)
 
